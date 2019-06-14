@@ -1,4 +1,4 @@
-# FED-Project-01
+# FEND-Project-01
 
 This is my first project in the FEND program.
 
