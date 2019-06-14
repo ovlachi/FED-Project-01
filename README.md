@@ -1,6 +1,6 @@
 # FEND-Project-01
 
-This is my first project in the FEND program.
+This is my first project in the RMIT/Udacity's Front-End Nanodegree program
 
 The task was to create a simple portfolio website using responsive layout and responsive images.
 
